@@ -18,13 +18,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎮 **FiveM / RedM** Developer
-- ⚙️ Frameworks: **QBCore · Qbox · ESX**
-- 🌐 Full-stack: Frontend & Backend
-- 🎨 NUI / UI Development
-- 🗄️ MySQL Database Design
-- 🚀 Performance & Resource Optimization
-- 🔒 Most production projects are **private**
+🎮 **FiveM & RedM Developer**
+🧩 **Frameworks:** QBCore · Qbox · ESX
+💻 **Full-Stack Development:** Frontend & Backend
+🖥️ **NUI & Custom UI Systems**
+🗃️ **MySQL & Database Architecture**
+⚡ **Optimization & Server Performance**
 
 ---
 
