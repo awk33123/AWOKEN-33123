@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c33,50:0e7490,100:14b8a6&height=220&section=header&text=AWK-33123&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FiveM%20%E2%80%A2%20Lua%20Developer&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c33,50:0e7490,100:14b8a6&height=220&section=header&text=AWOKEN-33123&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FiveM%20%E2%80%A2%20Lua%20Developer&descAlignY=58&descSize=20" width="100%" />
 
 <a href="https://github.com/awk33123">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Building+high-performance+FiveM+resources;Backend+systems+%26+modern+NUI;Clean+code.+Fast+scripts.+Zero+lag." alt="Typing SVG" />
